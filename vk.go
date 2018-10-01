@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/go-resty/resty"
+	"gopkg.in/resty.v1"
 )
 
 // VK struct
